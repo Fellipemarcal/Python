@@ -68,10 +68,10 @@ O objetivo principal do projeto é aplicar conceitos de:
 <pre>
 object_counter/
 │
-├── object_counter.py
+├── main.py
 ├── coins.jpg
-├── images/
-│   └── resultado.png
+├── resultado/
+│   └── Figure_1.png
 ├── README.html
 </pre>
 
